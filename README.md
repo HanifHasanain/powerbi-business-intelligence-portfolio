@@ -33,7 +33,7 @@ Dashboard for monitoring:
 
 ## 💳 Non Lumpsum Expense Analysis
 
-![Non Lumpsum](assets/Non%20lumpsum%20overview%20portfolio.png)
+![Non Lumpsum](assets/Non%20Lumpsum%20overview%20portfolio.png)
 
 Dashboard for:
 - Ticket Expense
