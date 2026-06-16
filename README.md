@@ -1,2 +1,2 @@
-# portfolio-analytics
-Collection of data analytics dashboards built with Power BI covering operations, and business performance insights.
+# powerbi-business-intelligence-portfolio
+Business Intelligence Portfolio | Power BI | DAX | Healthcare Analytics | HR Analytics | Travel Expense Analytics
