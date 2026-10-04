@@ -2,18 +2,25 @@
 
 **Business Intelligence Analyst | Power BI · DAX · Power Query · SQL**
 
-I create Power BI reports for workforce, travel spending, and healthcare data. The dashboard screenshots in this portfolio are stored in the [`assets/`](assets/) folder.
+I create Power BI reports for customer survey, workforce, travel spending, and healthcare data. The dashboard screenshots in this portfolio are stored in the [`assets/`](assets/) folder.
 
 ## Portfolio overview
 
 | Area | Dashboard examples | Business focus |
 | --- | --- | --- |
+| Customer survey | Online food delivery customer insights | Survey responses and feedback by occupation, income, customer type, age, and gender |
 | Sales | Sales performance | Revenue, profit, order volume, and margin by month, region, and category |
 | Workforce | Manpower analytics | Headcount, workforce composition, hiring, termination, and tenure |
 | Travel and cost | Travel expense and non lumpsum expense | Travel spend by period, destination, division, ticket, hotel, and airline |
 | Healthcare | Provider, provider group, and diagnosis analysis | Inpatient claims, provider performance, diagnosis mix, and medical costs |
 
 ## Selected dashboards
+
+### Online food delivery customer insights
+
+![Online food delivery customer insights dashboard preview](assets/online_food_delivery_dashboard.png)
+
+This dashboard summarizes 388 survey responses. It compares the Yes share in the source's Output field across occupation and monthly income, with respondent counts shown for each group. The report also breaks down Output responses by customer type, compares positive and negative feedback for each Output answer, and shows the age and gender profile of respondents. These views help identify how survey responses vary across customer groups and where follow up questions may be useful.
 
 ### Sales performance dashboard
 
