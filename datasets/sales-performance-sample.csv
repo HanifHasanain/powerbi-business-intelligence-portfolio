@@ -1,0 +1,53 @@
+OrderDate,Region,Category,Revenue,Profit,Orders
+2025-01-01,West,Technology,48200,11100,228
+2025-01-01,Central,Furniture,36500,6900,196
+2025-01-01,East,Office Supplies,31800,7200,184
+2025-01-01,South,Technology,42100,9300,213
+2025-02-01,West,Furniture,45100,8600,219
+2025-02-01,Central,Office Supplies,34400,7800,202
+2025-02-01,East,Technology,39900,9000,207
+2025-02-01,South,Furniture,38200,7300,195
+2025-03-01,West,Office Supplies,46900,10500,231
+2025-03-01,Central,Technology,41800,9400,210
+2025-03-01,East,Furniture,35600,6800,188
+2025-03-01,South,Office Supplies,40100,9100,206
+2025-04-01,West,Technology,50500,11600,244
+2025-04-01,Central,Furniture,38700,7400,201
+2025-04-01,East,Office Supplies,34200,7700,197
+2025-04-01,South,Technology,43900,10100,221
+2025-05-01,West,Furniture,47800,9000,230
+2025-05-01,Central,Office Supplies,36100,8200,208
+2025-05-01,East,Technology,41700,9600,214
+2025-05-01,South,Furniture,40300,7700,204
+2025-06-01,West,Office Supplies,52100,12100,256
+2025-06-01,Central,Technology,44500,10300,224
+2025-06-01,East,Furniture,37900,7100,199
+2025-06-01,South,Office Supplies,42600,9700,218
+2025-07-01,West,Technology,53400,12400,261
+2025-07-01,Central,Furniture,40200,7700,209
+2025-07-01,East,Office Supplies,36800,8300,215
+2025-07-01,South,Technology,46100,10700,234
+2025-08-01,West,Furniture,49700,9400,239
+2025-08-01,Central,Office Supplies,38500,8700,221
+2025-08-01,East,Technology,43800,10100,226
+2025-08-01,South,Furniture,41700,8000,211
+2025-09-01,West,Office Supplies,54900,12700,270
+2025-09-01,Central,Technology,46900,10800,236
+2025-09-01,East,Furniture,39500,7500,207
+2025-09-01,South,Office Supplies,44300,10000,227
+2025-10-01,West,Technology,56300,13000,276
+2025-10-01,Central,Furniture,42500,8100,217
+2025-10-01,East,Office Supplies,38900,8800,224
+2025-10-01,South,Technology,48200,11200,243
+2025-11-01,West,Furniture,51800,9800,250
+2025-11-01,Central,Office Supplies,40200,9100,229
+2025-11-01,East,Technology,45700,10500,235
+2025-11-01,South,Furniture,43600,8300,220
+2025-12-01,West,Office Supplies,58700,13600,286
+2025-12-01,Central,Technology,49300,11400,248
+2025-12-01,East,Furniture,41600,7900,216
+2025-12-01,South,Office Supplies,46800,10600,238
+2025-12-31,West,Technology,109600,18100,489
+2025-12-31,Central,Furniture,132400,22100,587
+2025-12-31,East,Office Supplies,142600,21300,574
+2025-12-31,South,Technology,7100,3400,97

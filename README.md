@@ -14,6 +14,12 @@ I build dashboards and analytical views that help teams understand workforce, tr
 
 ## Selected dashboards
 
+### Sales performance dashboard
+
+![Sales performance dashboard preview](assets/sales-performance-dashboard.png)
+
+A sales monitoring example that brings together revenue, profit, order volume, regional performance, category mix, and monthly trends. The supporting [synthetic dataset](datasets/sales-performance-sample.csv) is included so the report can be recreated in Power BI.
+
 ### Workforce analytics
 
 ![Workforce analytics dashboard preview](assets/MPS%20Portfolio.png)
@@ -64,6 +70,7 @@ Compares provider group performance, diagnosis mix, membership distribution, and
 ```text
 .
 ├── assets/       # Dashboard screenshots and previews
+├── datasets/     # Synthetic datasets for reproducible portfolio examples
 └── README.md
 ```
 
