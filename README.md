@@ -19,7 +19,7 @@ I create Power BI reports for workforce, travel spending, and healthcare data. T
 
 ![Sales performance dashboard preview](assets/sales_performance_dashboard.png)
 
-This dashboard gives sales teams a view of how revenue, profit, order volume, and profit margin change over the year. The regional and category breakdowns help compare where sales are strongest, while the monthly trend makes changes over time easier to spot. The [sample dataset](datasets/sales_performance_sample.csv) contains fictional 2025 summary data by date, region, and category. It can be used to build a similar report in Power BI, but it does not include the product details or prior year figures shown in the preview.
+This dashboard brings sales performance into one view, with revenue, profit, order volume, and profit margin tracked across the year. Regional and category comparisons show where sales are strongest, while the monthly trend helps teams follow changes over time. The product table adds detail on top revenue contributors, supporting conversations about sales mix and areas for further review.
 
 ### Workforce analytics
 
