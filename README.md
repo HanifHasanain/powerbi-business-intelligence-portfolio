@@ -1,104 +1,72 @@
-# 📊 Power BI Business Intelligence Portfolio
+# Business Intelligence & Power BI Portfolio
 
-Business Intelligence Analyst specializing in HR Analytics, Travel Expense Analytics, and Healthcare Analytics using Power BI.
+**Business Intelligence Analyst | Power BI · DAX · Power Query · SQL**
 
----
+I build dashboards and analytical views that help teams understand workforce, travel spending, and healthcare performance. This portfolio presents selected dashboard work, with a focus on clear KPIs, practical drilldowns, and decision-ready reporting. All dashboard screenshots are available in the [`assets/`](assets/) folder.
 
-# Dashboard Collection
+## Portfolio at a glance
 
-## 👥 Workforce Analytics Dashboard
+| Area | Selected work | Example questions explored |
+| --- | --- | --- |
+| Workforce | Manpower analytics | How are headcount, hiring, attrition, demographics, and tenure changing? |
+| Travel & cost | Travel expense and non-lumpsum expense | Where is spend concentrated, and how does it change over time or across divisions and destinations? |
+| Healthcare | Provider, provider group, and diagnosis analysis | Which providers, diagnoses, and areas contribute to claims and medical costs? |
 
-![MPS Dashboard](assets/MPS%20Portfolio.png)
+## Selected dashboards
 
-Interactive dashboard for monitoring:
-- Current Manpower
-- Hire & Termination
-- Demographics
-- Working Area
-- Tenure
+### Workforce analytics
 
----
+![Workforce analytics dashboard preview](assets/MPS%20Portfolio.png)
 
-## ✈️ Travel Expense Overview
+An overview of manpower, hiring and termination, workforce demographics, working areas, and tenure.
 
-![Travel Expense](assets/Travel%20Expense%20Portfolio.png)
+### Travel expense overview
 
-Dashboard for monitoring:
-- Travel Expense Trend
-- Transaction Trend
-- Expense by Destination
-- Division Analysis
+![Travel expense dashboard preview](assets/Travel%20Expense%20Portfolio.png)
 
----
+Explores expense and transaction trends, destination-level spend, and division comparisons.
 
-## 💳 Non Lumpsum Expense Analysis
+### Non-lumpsum expense analysis
 
-![Non Lumpsum](assets/Non%20Lumpsum%20overview%20portfolio.png)
+![Non-lumpsum expense dashboard preview](assets/Non%20Lumpsum%20overview%20portfolio.png)
 
-Dashboard for:
-- Ticket Expense
-- Hotel Expense
-- Airlines Analysis
-- Cost Reduction
+Reviews ticket and hotel expenses, airline patterns, and opportunities to monitor cost reduction.
 
----
+### Healthcare provider analysis — inpatient
 
-## 🏥 Provider Analysis Inpatient
+![Healthcare provider analysis dashboard preview](assets/Provider%20Analysis%20portfolio_1.png)
 
-![Provider Analysis](assets/Provider%20Analysis%20portfolio_1.png)
+Examines provider-level claims, membership, and geographic patterns.
 
-Dashboard for:
-- Top Healthcare Provider
-- Claim Analysis
-- Membership Analysis
-- Area Analysis
+### Inpatient diagnosis analysis
 
----
+![Inpatient diagnosis analysis dashboard preview](assets/Diagnose%20Analysis%20Portfolio.png)
 
-## 🩺 Diagnose Analysis Inpatient
+Explores leading diagnoses, ICD groupings, claim trends, and medical costs.
 
-![Diagnose Analysis](assets/Diagnose%20Analysis%20Portfolio.png)
+### Healthcare provider group analysis
 
-Dashboard for:
-- Top Diagnosis
-- ICD Analysis
-- Claim Trend
-- Medical Cost
+![Healthcare provider group analysis dashboard preview](assets/Provider%20Group%20Analysis%20portfolio_1.png)
 
----
+Compares provider group performance, diagnosis mix, membership distribution, and healthcare costs.
 
-## 🏥 Provider Group Analysis
+> Images in this repository are dashboard previews. Interactive reports and underlying data are not included in these previews.
 
-![Provider Group Analysis](assets/Provider%20Group%20Analysis%20portfolio_1.png)
+## Tools and capabilities
 
-Dashboard for:
-- Provider Group Performance
-- Top Diagnosis
-- Membership Distribution
-- Healthcare Cost
+- **BI & visualization:** Power BI, dashboard design, executive reporting
+- **Analytics:** DAX, KPI development, trend and variance analysis
+- **Data preparation:** Power Query, SQL, Excel
+- **Modeling:** data modeling and business requirement gathering
 
----
+## Repository structure
 
-# 🛠️ Tech Stack
+```text
+.
+├── assets/       # Dashboard screenshots and previews
+└── README.md
+```
 
-- Power BI
-- DAX
-- Power Query
-- SQL
-- Excel
-- Data Modeling
+## Contact
 
----
-
-# 👨‍💼 Role
-
-**Business Intelligence Analyst**
-
-- Business Requirement Gathering
-- Dashboard Development
-- Data Modeling
-- KPI Development
-- Executive Reporting
-- Data Visualization
-
----
+For collaboration or questions about this work, please reach out through my GitHub profile.
