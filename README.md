@@ -6,11 +6,11 @@ I create Power BI reports for workforce, travel spending, and healthcare data. T
 
 ## Portfolio overview
 
-Workforce reports cover headcount, hiring, termination, demographics, work location, and tenure.
-
-Travel and cost reports cover spending trends, destinations, divisions, tickets, hotels, and airlines.
-
-Healthcare reports cover providers, provider groups, diagnoses, claims, membership, and medical costs.
+| Area | Dashboard examples | What the reports show |
+| --- | --- | --- |
+| Workforce | Manpower analytics | Headcount, hiring, termination, demographics, work location, and tenure |
+| Travel and cost | Travel expense and non lumpsum expense | Spending trends, destinations, divisions, tickets, hotels, and airlines |
+| Healthcare | Provider, provider group, and diagnosis analysis | Providers, diagnoses, claims, membership, and medical costs |
 
 ## Selected dashboards
 
@@ -18,43 +18,43 @@ Healthcare reports cover providers, provider groups, diagnoses, claims, membersh
 
 ![Sales performance dashboard preview](assets/sales_performance_dashboard.png)
 
-This report shows revenue, profit, orders, regional results, product categories, and monthly sales. You can use the included [sample dataset](datasets/sales_performance_sample.csv) to recreate it in Power BI.
+This dashboard is designed for sales managers who need one view of 2025 performance. It compares revenue, profit, orders, and profit margin by region and product category. The monthly chart shows the direction of sales during the year, while the product table helps identify the products that contribute the most revenue. Use the included [sample dataset](datasets/sales_performance_sample.csv) to recreate the report in Power BI.
 
 ### Workforce analytics
 
 ![Workforce analytics dashboard preview](assets/MPS%20Portfolio.png)
 
-An overview of manpower, hiring and termination, workforce demographics, working areas, and tenure.
+This dashboard gives HR and management a current view of the workforce. It tracks manpower, hiring, termination, demographics, work location, and tenure. The report helps users see where employees are based and how the workforce is changing.
 
 ### Travel expense overview
 
 ![Travel expense dashboard preview](assets/Travel%20Expense%20Portfolio.png)
 
-Shows expense and transaction trends, spending by destination, and division comparisons.
+This dashboard helps finance and travel teams monitor business travel spending. It shows expense and transaction trends, compares spending by destination and division, and makes it easier to spot areas that need review.
 
 ### Non lumpsum expense analysis
 
 ![Non lumpsum expense dashboard preview](assets/Non%20Lumpsum%20overview%20portfolio.png)
 
-Shows ticket and hotel expenses, airline usage, and cost reduction opportunities.
+This dashboard focuses on expenses that are paid outside the main lump sum process. It breaks down ticket and hotel costs, shows airline usage, and highlights spending patterns that can be used when discussing cost control.
 
 ### Healthcare provider analysis, inpatient
 
 ![Healthcare provider analysis dashboard preview](assets/Provider%20Analysis%20portfolio_1.png)
 
-Shows claims, membership, and geographic results by provider.
+This dashboard helps healthcare benefit teams review inpatient claims by provider. It compares claim value, membership, and location, so users can identify providers with high usage or high costs.
 
 ### Inpatient diagnosis analysis
 
 ![Inpatient diagnosis analysis dashboard preview](assets/Diagnose%20Analysis%20Portfolio.png)
 
-Shows common diagnoses, ICD groups, claim trends, and medical costs.
+This dashboard reviews inpatient claims by diagnosis and ICD group. It shows claim trends and medical costs, helping users understand which conditions are driving healthcare spending.
 
 ### Healthcare provider group analysis
 
 ![Healthcare provider group analysis dashboard preview](assets/Provider%20Group%20Analysis%20portfolio_1.png)
 
-Shows provider group performance, diagnosis mix, membership distribution, and healthcare costs.
+This dashboard compares performance across provider groups. It brings together diagnosis mix, membership distribution, and healthcare costs to support reviews of provider usage and cost patterns.
 
 > Images in this repository are dashboard previews. Interactive reports and underlying data are not included in these previews.
 
