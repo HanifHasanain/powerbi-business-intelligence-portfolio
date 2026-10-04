@@ -2,23 +2,23 @@
 
 **Business Intelligence Analyst | Power BI · DAX · Power Query · SQL**
 
-I build dashboards and analytical views that help teams understand workforce, travel spending, and healthcare performance. This portfolio presents selected dashboard work, with a focus on clear KPIs, practical drilldowns, and decision-ready reporting. All dashboard screenshots are available in the [`assets/`](assets/) folder.
+I create Power BI reports for workforce, travel spending, and healthcare data. The dashboard screenshots in this portfolio are stored in the [`assets/`](assets/) folder.
 
-## Portfolio at a glance
+## Portfolio overview
 
-| Area | Selected work | Example questions explored |
-| --- | --- | --- |
-| Workforce | Manpower analytics | How are headcount, hiring, attrition, demographics, and tenure changing? |
-| Travel & cost | Travel expense and non-lumpsum expense | Where is spend concentrated, and how does it change over time or across divisions and destinations? |
-| Healthcare | Provider, provider group, and diagnosis analysis | Which providers, diagnoses, and areas contribute to claims and medical costs? |
+Workforce reports cover headcount, hiring, termination, demographics, work location, and tenure.
+
+Travel and cost reports cover spending trends, destinations, divisions, tickets, hotels, and airlines.
+
+Healthcare reports cover providers, provider groups, diagnoses, claims, membership, and medical costs.
 
 ## Selected dashboards
 
 ### Sales performance dashboard
 
-![Sales performance dashboard preview](assets/sales-performance-dashboard.png)
+![Sales performance dashboard preview](assets/sales_performance_dashboard.png)
 
-A sales monitoring example that brings together revenue, profit, order volume, regional performance, category mix, and monthly trends. The supporting [synthetic dataset](datasets/sales-performance-sample.csv) is included so the report can be recreated in Power BI.
+This report shows revenue, profit, orders, regional results, product categories, and monthly sales. You can use the included [sample dataset](datasets/sales_performance_sample.csv) to recreate it in Power BI.
 
 ### Workforce analytics
 
@@ -30,50 +30,42 @@ An overview of manpower, hiring and termination, workforce demographics, working
 
 ![Travel expense dashboard preview](assets/Travel%20Expense%20Portfolio.png)
 
-Explores expense and transaction trends, destination-level spend, and division comparisons.
+Shows expense and transaction trends, spending by destination, and division comparisons.
 
-### Non-lumpsum expense analysis
+### Non lumpsum expense analysis
 
-![Non-lumpsum expense dashboard preview](assets/Non%20Lumpsum%20overview%20portfolio.png)
+![Non lumpsum expense dashboard preview](assets/Non%20Lumpsum%20overview%20portfolio.png)
 
-Reviews ticket and hotel expenses, airline patterns, and opportunities to monitor cost reduction.
+Shows ticket and hotel expenses, airline usage, and cost reduction opportunities.
 
-### Healthcare provider analysis — inpatient
+### Healthcare provider analysis, inpatient
 
 ![Healthcare provider analysis dashboard preview](assets/Provider%20Analysis%20portfolio_1.png)
 
-Examines provider-level claims, membership, and geographic patterns.
+Shows claims, membership, and geographic results by provider.
 
 ### Inpatient diagnosis analysis
 
 ![Inpatient diagnosis analysis dashboard preview](assets/Diagnose%20Analysis%20Portfolio.png)
 
-Explores leading diagnoses, ICD groupings, claim trends, and medical costs.
+Shows common diagnoses, ICD groups, claim trends, and medical costs.
 
 ### Healthcare provider group analysis
 
 ![Healthcare provider group analysis dashboard preview](assets/Provider%20Group%20Analysis%20portfolio_1.png)
 
-Compares provider group performance, diagnosis mix, membership distribution, and healthcare costs.
+Shows provider group performance, diagnosis mix, membership distribution, and healthcare costs.
 
 > Images in this repository are dashboard previews. Interactive reports and underlying data are not included in these previews.
 
-## Tools and capabilities
+## Tools
 
-- **BI & visualization:** Power BI, dashboard design, executive reporting
-- **Analytics:** DAX, KPI development, trend and variance analysis
-- **Data preparation:** Power Query, SQL, Excel
-- **Modeling:** data modeling and business requirement gathering
+Power BI, DAX, Power Query, SQL, Excel, data modeling, dashboard design, KPI development, and business requirement gathering.
 
-## Repository structure
+## Repository
 
-```text
-.
-├── assets/       # Dashboard screenshots and previews
-├── datasets/     # Synthetic datasets for reproducible portfolio examples
-└── README.md
-```
+`assets` contains dashboard screenshots. `datasets` contains sample data for selected dashboard examples.
 
 ## Contact
 
-For collaboration or questions about this work, please reach out through my GitHub profile.
+You can contact me through my GitHub profile.
